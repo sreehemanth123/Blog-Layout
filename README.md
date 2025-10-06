@@ -73,6 +73,3 @@ To test responsiveness:
 
 ---
 
-## 👨‍💻 Author
-Your Name  
-Feel free to customize and improve this layout as needed.
